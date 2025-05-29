@@ -42,7 +42,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 
-  ![image](https://github.com/user-attachments/assets/40dfe95b-e85b-4b8f-b6ce-3b992720d66a)
+ ![image](https://github.com/user-attachments/assets/39be7c7f-8eaa-46c2-9939-cb6149b2f0d5)
+
 
 
 <p>
