@@ -37,7 +37,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ After setting up my virtual machine, I enabled IIS along with CGI support. To verify that the web server was running, I opened Microsoft Edge and navigated to the loopback address (127.0.0.1). Above are the results before and after enabling the web server.
+
+
 </p>
 <br />
 
