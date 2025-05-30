@@ -64,6 +64,6 @@ Here, I installed MySQL 5.5 to serve as the database where all data—including 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is the final result of the steps outlined above: osTicket has been successfully installed, and a test ticket has been created to confirm functionality.
 </p>
 <br />
