@@ -51,7 +51,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 </p>
 <p>
-Here, I installed MySQL 5.5 to serve as the database where all data—including user accounts, ticket information, and more—is stored.
+I installed MySQL 5.5 to serve as the backend database for storing critical application data, including user accounts, ticket information, and other related records.
 </p>
 <br />
 
