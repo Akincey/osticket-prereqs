@@ -6,10 +6,6 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- How To Install osTicket with Prerequisites https://m.youtube.com/watch?v=k_CDukV-bcs&pp=0gcJCbAJAYcqIYzv
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
